@@ -1,9 +1,5 @@
-from calculator import calculate_sum
-
-
 def main():
-    result = calculate_sum(1,2)
-    print(result)
+    pass
 
 
 if __name__ == "__main__":
